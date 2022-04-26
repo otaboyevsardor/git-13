@@ -2,3 +2,7 @@ body{
     margin: 0;
     background-color: antiquewhite;
 }
+h1{
+    padding: 30px;
+    float: right;
+}
